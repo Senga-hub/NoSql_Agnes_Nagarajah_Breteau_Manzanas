@@ -1,13 +1,13 @@
 # Projet NoSQL - MongoDB & Neo4j
 
-Application Python / Streamlit d'exploration et d'interrogation de bases de données NoSQL (MongoDB et Neo4j) dans le cadre du cours NoSQL 2024-2025 - ESIEA.
+Application Python / Streamlit d'exploration et d'interrogation de bases de données NoSQL (MongoDB et Neo4j) dans le cadre du Projet NoSQL-MangDB.
 
 ---
 
 ## Prérequis
 
 - Python 3.10+
-- Un accès aux instances cloud MongoDB et Neo4j (credentials requis)
+- Un accès aux instances cloud MongoDB et Neo4j (envoyée par mail)
 
 ---
 
@@ -16,7 +16,7 @@ Application Python / Streamlit d'exploration et d'interrogation de bases de donn
 1. **Cloner le projet**
 
 ```bash
-git clone https://github.com/votre-repo.git
+git clone https://github.com/Senga-hub/NoSql_Agnes_Nagarajah_Breteau_Manzanas
 cd Projet_Nosql
 ```
 
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 4. **Configurer les variables d'environnement**
 
-Créer un fichier `.env` à la racine du projet :
+Créer un fichier `.env` à la racine du projet qui ont été envoyée par mail :
 
 ```env
 MONGO_URI=your_mongodb_uri
