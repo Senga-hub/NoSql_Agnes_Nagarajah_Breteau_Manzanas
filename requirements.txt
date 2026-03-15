@@ -1,0 +1,9 @@
+streamlit
+pymongo
+python-dotenv
+pandas
+matplotlib
+numpy
+neo4j
+pymongo
+python-dotenv
