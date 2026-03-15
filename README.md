@@ -17,7 +17,7 @@ Application Python / Streamlit d'exploration et d'interrogation de bases de donn
 
 ```bash
 git clone https://github.com/Senga-hub/NoSql_Agnes_Nagarajah_Breteau_Manzanas
-cd Projet_Nosql
+cd NoSql_Agnes_Nagarajah_Breteau_Manzanas
 ```
 
 2. **Créer et activer un environnement virtuel** *(recommandé)*
